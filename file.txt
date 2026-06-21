@@ -1,1 +1,2 @@
+Navbar 
 home page done
